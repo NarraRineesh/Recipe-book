@@ -1,4 +1,5 @@
 # Recipe-book
+Install nodejs from nodejs.Org:
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) Latest version
 
 ## Getting started
@@ -22,14 +23,15 @@ git clone git@github.com:<PERSON A>/project-webapp-angular.git
 ```
 
 9) Now you're ready to collaborate! To try this out make a change to for example `./src/app/app.component.html` by adding your name to the file. Then, `git add -A` `git commit -am 'test if this works'` `git push`. Try this when you're together to make sure you can fix permission issues. 
-
-
+## stylings
+Download bootstrap 4 usingnode package manager. 
 ## Material
 We've pre-installed [Angular Material](https://material.angular.io/). This comes with some [themes out of the box](https://material.angular.io/guide/theming), which you can chose from `./node_modules/@angular/material/prebuilt-themes`. Whenever you want to style something, first checkout whether material has a component for it.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 ## Code scaffolding
 
