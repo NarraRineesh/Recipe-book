@@ -1,5 +1,5 @@
 # Recipe-book
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) Latest version
 
 ## Getting started
 Take a look at the existing component, students and teachers. Try to understand how routing works and how Angular Material is imported and gives the purple color. Then:
