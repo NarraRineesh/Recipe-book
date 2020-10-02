@@ -1,0 +1,14 @@
+.nav-item {
+    margin-left: 50px;
+}
+.navbar-nav {
+    font-size: large;
+    font-weight: 500;
+}
+.navbar-nav  a:hover{
+ max-width: 150px;
+ max-height: 100px;
+ background-color: gray;
+ border-radius: 50px;
+ color: blue;
+}
